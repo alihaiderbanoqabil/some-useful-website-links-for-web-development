@@ -125,6 +125,11 @@
 - [Loading Animations](https://loading.io/)
 - [Loading Icons](https://loading.io/icon/)
 
+### Cheat Sheets
+
+- [Flex](https://flexbox.malven.co/)
+- [Grid](https://grid.malven.co/)
+
 
 # Regular Expression Full Cheat Sheet (For quick look) :)
 Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regular-expression-cheatsheet/)
