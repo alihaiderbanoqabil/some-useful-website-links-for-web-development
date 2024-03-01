@@ -253,3 +253,18 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 - `[:print:]`  →  Printed characters and spaces
 - `[:word:]`   →  Digits, letters, and underscore
 
+
+## Some free and paid (Public and private API's)
+
+- [Pexels](https://www.pexels.com/login/)
+- [The Movie Database (TMDb)](https://developer.themoviedb.org/docs)
+- [RapidAPI](https://rapidapi.com/auth/sign-up)
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+- [Public APIs GitHub Repository](https://github.com/public-apis/public-apis)
+- [TMDb API Getting Started Guide](https://developer.themoviedb.org/reference/intro/getting-started)
+- [Open Trivia Database (opentdb.com)](https://opentdb.com/)
+- [Fake Store API](https://fakestoreapi.com/)
+- [PokeAPI](https://pokeapi.co/)
+- [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+
+
