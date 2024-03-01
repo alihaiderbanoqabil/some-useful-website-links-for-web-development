@@ -266,6 +266,7 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 - [Fake Store API](https://fakestoreapi.com/)
 - [PokeAPI](https://pokeapi.co/)
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api)
+- [RANDOM USER GENERATOR](https://randomuser.me/api)
 
 
 
