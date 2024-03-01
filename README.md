@@ -268,3 +268,24 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 - [Spotify Web API](https://developer.spotify.com/documentation/web-api)
 
 
+
+## Some animations and transitions libraries for HTML, CSS, and JavaScript.
+- [Animate.css](https://animate.style/)
+- [GreenSock Animation Platform (GSAP)](https://greensock.com/)
+- [Velocity.js](http://velocityjs.org/)
+- [Anime.js](https://animejs.com/)
+- [Hover.css](https://ianlunn.github.io/Hover/)
+- [Transit.js](https://ricostacruz.com/jquery.transit/)
+- [Magic Animations](https://www.minimamente.com/project/magic/)
+
+
+
+## Some carousel and slider libraries for HTML, CSS, and JavaScript.
+
+- [Slick](https://kenwheeler.github.io/slick/)
+- [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
+- [Swiper](https://swiperjs.com/)
+- [Flickity](https://flickity.metafizzy.co/)
+- [bxSlider](https://bxslider.com/)
+- [Tiny Slider 2](https://github.com/ganlanyuan/tiny-slider)
+- [Glide.js](https://glidejs.com/)
