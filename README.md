@@ -290,3 +290,10 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 - [bxSlider](https://bxslider.com/)
 - [Tiny Slider 2](https://github.com/ganlanyuan/tiny-slider)
 - [Glide.js](https://glidejs.com/)
+
+
+
+
+
+- [Upload and share your images](https://imgbb.com/)
+
