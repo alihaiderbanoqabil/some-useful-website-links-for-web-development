@@ -15,6 +15,7 @@
 - W3Schools - [HTML](https://www.w3schools.com/html/)
 - Code Academy - [HTML](https://www.codecademy.com/learn/learn-html)
 - React JS - [React JS](https://reactjs.org/)
+- JavaScript - [JavaScript](https://javascript.info/)
 
 
 ## Different website for free resources
