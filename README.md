@@ -295,7 +295,7 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 ## Resources for JavaScript Interview:
 
 - [JavaScript Info](https://javascript.info/)
-- [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains]([https://javascript.info/](https://www.youtube.com/watch?v=QyUFheng6J0&list=PLLVIiG54YEtg1_1_fqMfJnLlfpUqRbuab&index=1))
+- [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains](https://www.youtube.com/watch?v=QyUFheng6J0&list=PLLVIiG54YEtg1_1_fqMfJnLlfpUqRbuab&index=1)
 
 
 
