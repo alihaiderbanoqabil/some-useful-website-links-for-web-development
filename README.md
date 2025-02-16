@@ -15,7 +15,6 @@
 - W3Schools - [HTML](https://www.w3schools.com/html/)
 - Code Academy - [HTML](https://www.codecademy.com/learn/learn-html)
 - React JS - [React JS](https://reactjs.org/)
-- Learn anything related to JavaScript - [JavaScript Info](https://javascript.info/)
 
 
 ## Different website for free resources
@@ -293,6 +292,10 @@ Note: For downloading visit [Buggy Programmer](https://buggyprogrammer.com/regul
 - [Glide.js](https://glidejs.com/)
 
 
+## Resources for JavaScript Interview:
+
+- [JavaScript Info](https://javascript.info/)
+- [Arindam Paul - JavaScript VM internals, EventLoop, Async and ScopeChains]([https://javascript.info/](https://www.youtube.com/watch?v=QyUFheng6J0&list=PLLVIiG54YEtg1_1_fqMfJnLlfpUqRbuab&index=1))
 
 
 
