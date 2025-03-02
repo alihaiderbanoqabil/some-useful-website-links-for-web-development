@@ -1,3 +1,7 @@
+## AI Tools & Websites
+- [V0](https://v0.dev/)
+- [lovable](https://lovable.dev/)
+
 ## Suggested Extensions for VSCode
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
