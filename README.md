@@ -2,6 +2,9 @@
 - [V0](https://v0.dev/)
 - [lovable](https://lovable.dev/)
 
+## Graphs & Charts
+- [rosencharts](https://rosencharts.com/)
+
 ## Suggested Extensions for VSCode
 
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
