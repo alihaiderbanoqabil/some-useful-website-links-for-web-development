@@ -3,6 +3,8 @@
 - [lovable](https://lovable.dev/)
 - [grok](https://grok.com/)
 - [perplexity](https://www.perplexity.ai/)
+- [claude](https://claude.ai)
+- [chatgpt](https://chatgpt.com/)
 
 ## Graphs & Charts
 - [rosencharts](https://rosencharts.com/)
