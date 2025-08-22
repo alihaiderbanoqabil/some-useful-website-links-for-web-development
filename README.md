@@ -1,6 +1,8 @@
 ## AI Tools & Websites
 - [V0](https://v0.dev/)
 - [lovable](https://lovable.dev/)
+- [grok](https://grok.com/)
+- [perplexity](https://www.perplexity.ai/)
 
 ## Graphs & Charts
 - [rosencharts](https://rosencharts.com/)
